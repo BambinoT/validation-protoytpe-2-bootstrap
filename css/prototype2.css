@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    background-image: url(../img-pro2/banner-fruits-removebg-preview\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.para1{
+    color: #CB0D0D;
+}
+.para2{
+    font-size: 100px;
+    letter-spacing: 1px;
+    color: white;
+}
+ul{
+    background: #490909;
+    padding: 33px;
+}
+ul li{
+    margin: 17px;
+}
+ul li .nav-link{
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+}
+
+                /*----- section home -----*/
+.work{
+    background-image: url(../img-pro2/work.png);
+    background-size: 100% cover;
+    background-position: left 250px center;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+#texte{
+    background-color: #F6E1C5;
+}
+.work a{
+    text-decoration: none;
+    background-color: #7B261A;
+    color: #fff;
+}
+footer{
+    background-color: #311919;
+    color: #fff;
+}
+
+                /*----- section about -----*/
+
+.about{
+    background-image: url(../img-pro2/about.png);
+    background-size: cover 70%;
+    background-repeat: no-repeat;
+}
+#about{
+    background-color: #F6E1C5;
+    margin-top: 300px;
+}
+
+                /*----- section products -----*/
+.product1{
+    background-image: url(../img-pro2/product1.png);
+    background-size: 70% 75% ;
+    background-repeat: no-repeat;
+    background-position: left 150px top 70px;
+}
+.product2{
+    background-image: url(../img-pro2/product2.png);
+    background-size: 70% 75% ;
+    background-repeat: no-repeat;
+    background-position: left 150px top 70px;
+}
+.product3{
+    background-image: url(../img-pro2/product3.png);
+    background-size: 70% 75% ;
+    background-repeat: no-repeat;
+    background-position: left 150px top 70px;
+}
+.products-txt{
+    background-color: #F6E1C5;
+}
+.large-txt{
+    background-color: #F6E1C5;
+    margin-top: 300px;
+}
+
+                    /*----- section store -----*/
+.horaires{
+    margin-left: 150px;
+}
+.red{
+    color: #A5342B;
+}
+.store{
+    background-image: url(../img-pro2/about.png);
+    background-size: cover 70%;
+    background-repeat: no-repeat;
+}
+#store{
+    background-color: #F6E1C5;
+    margin-top: 300px;
+}

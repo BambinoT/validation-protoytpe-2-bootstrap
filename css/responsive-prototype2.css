@@ -1,0 +1,75 @@
+@media screen and (max-width: 576px) {
+
+    .para2{
+        font-size: 70px;
+    }
+
+    /* navbar */
+    ul li{
+        margin: 0px;
+    }
+    ul li .nav-link{
+        font-size: 13px;
+        font-weight: bold;
+        display: inline-block;
+        color: #fff;
+    }
+
+    /* home */
+    .work{
+        background-image: url(../img-pro2/work.png);
+        background-size: 100% 100%;
+        background-position: left 70px center;
+        background-repeat: no-repeat;
+        padding-bottom: 100px;
+    }
+
+    /* about */
+    .about{
+        background-image: url(../img-pro2/about.png);
+        background-size: 100% 70%;
+        background-repeat: no-repeat;
+    }
+
+    /* products */
+    .product1{
+        background-image: url(../img-pro2/product1.png);
+        background-size: 85% 75% ;
+        background-repeat: no-repeat;
+        background-position: left 25px top 70px;
+    }
+    .product2{
+        background-image: url(../img-pro2/product2.png);
+        background-size: 85% 75% ;
+        background-repeat: no-repeat;
+        background-position: left 33px top 70px;
+    }
+    .product3{
+        background-image: url(../img-pro2/product3.png);
+        background-size: 85% 75% ;
+        background-repeat: no-repeat;
+        background-position: left 33px top 70px;
+    }
+
+    /* store */
+    .horaires{
+        margin-left: 50px;
+    }
+    .store{
+        background-image: url(../img-pro2/about.png);
+        background-size: 100% 70%;
+        background-repeat: no-repeat;
+    }
+}
+
+
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .work{
+        background-image: url(../img-pro2/work.png);
+        background-size: 100%;
+        background-position: left 100px center;
+        background-repeat: no-repeat;
+        padding-bottom: 100px;
+    }
+}
